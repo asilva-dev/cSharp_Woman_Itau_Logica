@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\bin\Debug\netcoreapp3.1\14LacoForTwo.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\obj\Debug\netcoreapp3.1\14LacoForTwo.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\obj\Debug\netcoreapp3.1\14LacoForTwo.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\obj\Debug\netcoreapp3.1\14LacoForTwo.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\14LacoForTwo\obj\Debug\netcoreapp3.1\14LacoForTwo.pdb

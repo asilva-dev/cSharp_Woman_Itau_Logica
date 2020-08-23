@@ -1,0 +1,11 @@
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.exe
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.deps.json
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.dll
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\bin\Debug\netcoreapp3.1\4 - ByteBank.pdb
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\obj\Debug\netcoreapp3.1\4 - ByteBank.csprojAssemblyReference.cache
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\obj\Debug\netcoreapp3.1\4 - ByteBank.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\obj\Debug\netcoreapp3.1\4 - ByteBank.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\obj\Debug\netcoreapp3.1\4 - ByteBank.dll
+C:\Users\amanda.p.silva\source\repos\ByteBank\4 - ByteBank\obj\Debug\netcoreapp3.1\4 - ByteBank.pdb

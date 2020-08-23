@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\bin\Debug\netcoreapp3.1\2-CriandoVariáveis.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\2-CriandoVariáveis\obj\Debug\netcoreapp3.1\2-CriandoVariáveis.pdb

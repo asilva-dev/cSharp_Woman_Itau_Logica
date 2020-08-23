@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\bin\Debug\netcoreapp3.1\12Foreach.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\obj\Debug\netcoreapp3.1\12Foreach.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\obj\Debug\netcoreapp3.1\12Foreach.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\obj\Debug\netcoreapp3.1\12Foreach.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\12Foreach\obj\Debug\netcoreapp3.1\12Foreach.pdb

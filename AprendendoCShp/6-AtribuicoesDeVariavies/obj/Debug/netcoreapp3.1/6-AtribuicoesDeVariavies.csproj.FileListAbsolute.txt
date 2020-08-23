@@ -1,0 +1,11 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\bin\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.csprojAssemblyReference.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\6-AtribuicoesDeVariavies\obj\Debug\netcoreapp3.1\6-AtribuicoesDeVariavies.pdb

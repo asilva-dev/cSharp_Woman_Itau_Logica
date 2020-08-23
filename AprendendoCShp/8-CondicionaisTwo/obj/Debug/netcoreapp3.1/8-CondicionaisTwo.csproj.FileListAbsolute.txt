@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\bin\Debug\netcoreapp3.1\8-CondicionaisTwo.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\obj\Debug\netcoreapp3.1\8-CondicionaisTwo.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\obj\Debug\netcoreapp3.1\8-CondicionaisTwo.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\obj\Debug\netcoreapp3.1\8-CondicionaisTwo.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\8-CondicionaisTwo\obj\Debug\netcoreapp3.1\8-CondicionaisTwo.pdb

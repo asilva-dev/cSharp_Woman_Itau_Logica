@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\bin\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\obj\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\obj\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\obj\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\4-CriandoVariaveisETiposNumericos\obj\Debug\netcoreapp3.1\4-CriandoVariaveisETiposNumericos.pdb

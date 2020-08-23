@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\obj\Debug\netcoreapp3.1\3- Ponto flutuante.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\obj\Debug\netcoreapp3.1\3- Ponto flutuante.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\bin\Debug\netcoreapp3.1\3- Ponto flutuante.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\obj\Debug\netcoreapp3.1\3- Ponto flutuante.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\3- Ponto flutuante\obj\Debug\netcoreapp3.1\3- Ponto flutuante.pdb

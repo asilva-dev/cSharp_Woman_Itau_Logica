@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\bin\Debug\netcoreapp3.1\13-Lacofor.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\obj\Debug\netcoreapp3.1\13-Lacofor.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\obj\Debug\netcoreapp3.1\13-Lacofor.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\obj\Debug\netcoreapp3.1\13-Lacofor.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\13-Lacofor\obj\Debug\netcoreapp3.1\13-Lacofor.pdb

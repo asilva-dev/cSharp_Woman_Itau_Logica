@@ -1,0 +1,11 @@
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.exe
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.deps.json
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.dll
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\bin\Debug\netcoreapp3.1\02-ByteBankRH.pdb
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\obj\Debug\netcoreapp3.1\02-ByteBankRH.csprojAssemblyReference.cache
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\obj\Debug\netcoreapp3.1\02-ByteBankRH.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\obj\Debug\netcoreapp3.1\02-ByteBankRH.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\obj\Debug\netcoreapp3.1\02-ByteBankRH.dll
+C:\Users\amanda.p.silva\source\repos\codenation-C-\Aula_Dois\ByteBankRH\02-ByteBankRH\obj\Debug\netcoreapp3.1\02-ByteBankRH.pdb

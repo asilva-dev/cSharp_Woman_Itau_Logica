@@ -1,0 +1,11 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\bin\Debug\netcoreapp3.1\5-CaracteresExternos.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\obj\Debug\netcoreapp3.1\5-CaracteresExternos.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\obj\Debug\netcoreapp3.1\5-CaracteresExternos.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\obj\Debug\netcoreapp3.1\5-CaracteresExternos.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\obj\Debug\netcoreapp3.1\5-CaracteresExternos.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\5-CaracteresExternos\obj\Debug\netcoreapp3.1\5-CaracteresExternos.csprojAssemblyReference.cache

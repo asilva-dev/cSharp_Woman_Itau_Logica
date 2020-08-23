@@ -1,0 +1,11 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\bin\Debug\netcoreapp3.1\AulaUm.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\obj\Debug\netcoreapp3.1\AulaUm.csprojAssemblyReference.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\obj\Debug\netcoreapp3.1\AulaUm.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\obj\Debug\netcoreapp3.1\AulaUm.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\obj\Debug\netcoreapp3.1\AulaUm.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\AulaUm\obj\Debug\netcoreapp3.1\AulaUm.pdb

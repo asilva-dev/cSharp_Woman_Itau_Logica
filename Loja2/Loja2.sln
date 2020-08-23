@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LojaServices", "LojaServices\LojaServices.csproj", "{F1A92E22-AEB3-4D49-B2B8-CE083541A003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loja.Test", "Loja.Test\Loja.Test.csproj", "{AF2D70A7-05EF-473D-80D1-01AC411A4212}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1A92E22-AEB3-4D49-B2B8-CE083541A003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A92E22-AEB3-4D49-B2B8-CE083541A003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A92E22-AEB3-4D49-B2B8-CE083541A003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A92E22-AEB3-4D49-B2B8-CE083541A003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF2D70A7-05EF-473D-80D1-01AC411A4212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF2D70A7-05EF-473D-80D1-01AC411A4212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF2D70A7-05EF-473D-80D1-01AC411A4212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF2D70A7-05EF-473D-80D1-01AC411A4212}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48BB5A47-BE8D-4F3B-9695-D36F48CABE93}
+	EndGlobalSection
+EndGlobal

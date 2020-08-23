@@ -1,0 +1,10 @@
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.exe
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.deps.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.runtimeconfig.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.runtimeconfig.dev.json
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\bin\Debug\netcoreapp3.1\10-LacoRepeticao.pdb
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\obj\Debug\netcoreapp3.1\10-LacoRepeticao.AssemblyInfoInputs.cache
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\obj\Debug\netcoreapp3.1\10-LacoRepeticao.AssemblyInfo.cs
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\obj\Debug\netcoreapp3.1\10-LacoRepeticao.dll
+C:\Users\amanda.p.silva\source\repos\AprendendoCShp\10-LacoRepeticao\obj\Debug\netcoreapp3.1\10-LacoRepeticao.pdb
